@@ -1,0 +1,4 @@
+/home/mahmoud/Desktop/projects/sim/build/CMakeFiles/sim.dir
+/home/mahmoud/Desktop/projects/sim/build/CMakeFiles/Simulation.dir
+/home/mahmoud/Desktop/projects/sim/build/CMakeFiles/edit_cache.dir
+/home/mahmoud/Desktop/projects/sim/build/CMakeFiles/rebuild_cache.dir
