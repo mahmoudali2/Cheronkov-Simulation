@@ -166,6 +166,30 @@ action.cc.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/action.cc.s
 .PHONY : action.cc.s
 
+detector.o: detector.cc.o
+.PHONY : detector.o
+
+# target to build an object file
+detector.cc.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/detector.cc.o
+.PHONY : detector.cc.o
+
+detector.i: detector.cc.i
+.PHONY : detector.i
+
+# target to preprocess a source file
+detector.cc.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/detector.cc.i
+.PHONY : detector.cc.i
+
+detector.s: detector.cc.s
+.PHONY : detector.s
+
+# target to generate assembly for a file
+detector.cc.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/sim.dir/build.make CMakeFiles/sim.dir/detector.cc.s
+.PHONY : detector.cc.s
+
 generator.o: generator.cc.o
 .PHONY : generator.o
 
@@ -275,6 +299,9 @@ help:
 	@echo "... action.o"
 	@echo "... action.i"
 	@echo "... action.s"
+	@echo "... detector.o"
+	@echo "... detector.i"
+	@echo "... detector.s"
 	@echo "... generator.o"
 	@echo "... generator.i"
 	@echo "... generator.s"

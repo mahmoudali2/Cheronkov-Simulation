@@ -598,6 +598,12 @@ CMakeFiles/sim.dir/sim.cc.o: /home/mahmoud/Desktop/projects/sim/sim.cc \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Pow.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4LogicalVolume.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4SystemOfUnits.hh \
+ /home/mahmoud/Desktop/projects/sim/detector.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VSensitiveDetector.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VReadOutGeometry.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4SensitiveVolumeList.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4CollectionNameVector.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VSDFilter.hh \
  /home/mahmoud/Desktop/projects/sim/physics.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VModularPhysicsList.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VPhysicsConstructor.hh \

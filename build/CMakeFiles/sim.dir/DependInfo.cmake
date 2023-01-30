@@ -9,6 +9,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/mahmoud/Desktop/projects/sim/action.cc" "CMakeFiles/sim.dir/action.cc.o" "gcc" "CMakeFiles/sim.dir/action.cc.o.d"
+  "/home/mahmoud/Desktop/projects/sim/detector.cc" "CMakeFiles/sim.dir/detector.cc.o" "gcc" "CMakeFiles/sim.dir/detector.cc.o.d"
   "/home/mahmoud/Desktop/projects/sim/generator.cc" "CMakeFiles/sim.dir/generator.cc.o" "gcc" "CMakeFiles/sim.dir/generator.cc.o.d"
   "/home/mahmoud/Desktop/projects/sim/geometry.cc" "CMakeFiles/sim.dir/geometry.cc.o" "gcc" "CMakeFiles/sim.dir/geometry.cc.o.d"
   "/home/mahmoud/Desktop/projects/sim/physics.cc" "CMakeFiles/sim.dir/physics.cc.o" "gcc" "CMakeFiles/sim.dir/physics.cc.o.d"
