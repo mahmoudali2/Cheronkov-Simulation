@@ -604,6 +604,66 @@ CMakeFiles/sim.dir/sim.cc.o: /home/mahmoud/Desktop/projects/sim/sim.cc \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4SensitiveVolumeList.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4CollectionNameVector.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VSDFilter.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AnalysisManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4GenericAnalysisManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ToolsAnalysisManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VAnalysisManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AnalysisManagerState.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AnalysisVerbose.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VAnalysisManager.icc \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4HnManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4BaseAnalysisManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Fcn.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4BinScheme.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4HnInformation.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AnalysisUtilities.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4NtupleBookingManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/ntuple_booking \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/cids \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/cid \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/typedefs \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/forit \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4NtupleBookingManager.icc \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VH1Manager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VH2Manager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VH3Manager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VP1Manager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VP2Manager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VNtupleManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VFileManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4BaseFileManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VTHnFileManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ToolsAnalysisMessenger.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4THnManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4THnManager.icc \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h1d \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h1 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/b1 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/base_histo \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/histo_data \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/axes \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/axis \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/eqT \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h2d \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h2 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/b2 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h3d \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h3 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/b3 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/p1d \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/p1 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/profile_data \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/p2d \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/p2 \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ToolsAnalysisManager.icc \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4H1ToolsManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4H2ToolsManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4H3ToolsManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4P1ToolsManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4P2ToolsManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4GenericAnalysisManager.icc \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4GenericFileManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4GenericFileManager.icc \
  /home/mahmoud/Desktop/projects/sim/physics.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VModularPhysicsList.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VPhysicsConstructor.hh \
@@ -679,4 +739,7 @@ CMakeFiles/sim.dir/sim.cc.o: /home/mahmoud/Desktop/projects/sim/sim.cc \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleGun.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VPrimaryGenerator.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleTable.hh
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleTable.hh \
+ /home/mahmoud/Desktop/projects/sim/run.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4UserRunAction.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Run.hh

@@ -13,6 +13,7 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/mahmoud/Desktop/projects/sim/generator.cc" "CMakeFiles/sim.dir/generator.cc.o" "gcc" "CMakeFiles/sim.dir/generator.cc.o.d"
   "/home/mahmoud/Desktop/projects/sim/geometry.cc" "CMakeFiles/sim.dir/geometry.cc.o" "gcc" "CMakeFiles/sim.dir/geometry.cc.o.d"
   "/home/mahmoud/Desktop/projects/sim/physics.cc" "CMakeFiles/sim.dir/physics.cc.o" "gcc" "CMakeFiles/sim.dir/physics.cc.o.d"
+  "/home/mahmoud/Desktop/projects/sim/run.cc" "CMakeFiles/sim.dir/run.cc.o" "gcc" "CMakeFiles/sim.dir/run.cc.o.d"
   "/home/mahmoud/Desktop/projects/sim/sim.cc" "CMakeFiles/sim.dir/sim.cc.o" "gcc" "CMakeFiles/sim.dir/sim.cc.o.d"
   )
 

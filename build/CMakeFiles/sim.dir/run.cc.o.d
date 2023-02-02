@@ -1,12 +1,6 @@
-CMakeFiles/sim.dir/action.cc.o: \
- /home/mahmoud/Desktop/projects/sim/action.cc /usr/include/stdc-predef.h \
- /home/mahmoud/Desktop/projects/sim/action.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VUserActionInitialization.hh \
- /home/mahmoud/Desktop/projects/sim/generator.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VUserPrimaryGeneratorAction.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleGun.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/globals.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ios.hh \
+CMakeFiles/sim.dir/run.cc.o: /home/mahmoud/Desktop/projects/sim/run.cc \
+ /usr/include/stdc-predef.h /home/mahmoud/Desktop/projects/sim/run.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4UserRunAction.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Types.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4GlobalConfig.hh \
  /usr/include/c++/11/complex \
@@ -186,6 +180,13 @@ CMakeFiles/sim.dir/action.cc.o: \
  /usr/include/c++/11/bits/istream.tcc \
  /usr/include/c++/11/bits/sstream.tcc \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tls.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Run.hh \
+ /usr/include/c++/11/vector /usr/include/c++/11/bits/stl_uninitialized.h \
+ /usr/include/c++/11/bits/stl_vector.h \
+ /usr/include/c++/11/bits/stl_bvector.h \
+ /usr/include/c++/11/bits/vector.tcc \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/globals.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ios.hh \
  /usr/include/c++/11/iostream /usr/include/c++/11/algorithm \
  /usr/include/c++/11/utility /usr/include/c++/11/bits/stl_relops.h \
  /usr/include/c++/11/bits/stl_algo.h \
@@ -205,11 +206,7 @@ CMakeFiles/sim.dir/action.cc.o: \
  /usr/include/c++/11/bits/enable_special_members.h \
  /usr/include/c++/11/bits/node_handle.h \
  /usr/include/c++/11/bits/unordered_map.h \
- /usr/include/c++/11/bits/erase_if.h /usr/include/c++/11/vector \
- /usr/include/c++/11/bits/stl_uninitialized.h \
- /usr/include/c++/11/bits/stl_vector.h \
- /usr/include/c++/11/bits/stl_bvector.h \
- /usr/include/c++/11/bits/vector.tcc \
+ /usr/include/c++/11/bits/erase_if.h \
  /usr/include/c++/11/pstl/execution_defs.h \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4String.hh \
  /usr/include/c++/11/cstring /usr/include/string.h /usr/include/strings.h \
@@ -245,56 +242,25 @@ CMakeFiles/sim.dir/action.cc.o: \
  /usr/include/c++/11/bits/parse_numbers.h \
  /usr/include/c++/11/bits/std_mutex.h \
  /usr/include/c++/11/bits/unique_lock.h \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4VPrimaryGenerator.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ThreeVector.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Utility/defs.h \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleDefinition.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Units/PhysicalConstants.h \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Units/SystemOfUnits.h \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4PDefManager.hh \
- /usr/include/c++/11/stdlib.h \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/pwdefs.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AutoLock.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Threading.hh \
- /usr/include/c++/11/condition_variable \
- /usr/include/c++/11/bits/shared_ptr.h \
- /usr/include/c++/11/bits/shared_ptr_base.h \
- /usr/include/c++/11/bits/allocated_ptr.h \
- /usr/include/c++/11/ext/concurrence.h /usr/include/c++/11/future \
- /usr/include/c++/11/atomic /usr/include/c++/11/bits/atomic_base.h \
- /usr/include/c++/11/bits/atomic_lockfree_defines.h \
- /usr/include/c++/11/bits/atomic_futex.h \
- /usr/include/c++/11/bits/std_thread.h /usr/include/c++/11/thread \
- /usr/include/c++/11/bits/this_thread_sleep.h \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleDefinition.icc \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4PrimaryVertex.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Allocator.hh \
- /usr/include/c++/11/cstddef \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AllocatorPool.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4PrimaryParticle.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleMomentum.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4SystemOfUnits.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleTable.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleTableIterator.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ParticleTable.icc \
- /home/mahmoud/Desktop/projects/sim/run.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4UserRunAction.hh \
- /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Run.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Profiler.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Profiler.icc \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/PTL/Globals.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/PTL/Types.hh \
+ /usr/include/c++/11/atomic /usr/include/c++/11/bits/atomic_base.h \
+ /usr/include/c++/11/bits/atomic_lockfree_defines.h \
  /usr/include/c++/11/memory \
  /usr/include/c++/11/bits/stl_raw_storage_iter.h \
  /usr/include/c++/11/bits/align.h /usr/include/c++/11/bit \
+ /usr/include/c++/11/bits/shared_ptr.h \
+ /usr/include/c++/11/bits/shared_ptr_base.h \
+ /usr/include/c++/11/bits/allocated_ptr.h \
+ /usr/include/c++/11/ext/concurrence.h \
  /usr/include/c++/11/bits/shared_ptr_atomic.h \
  /usr/include/c++/11/backward/auto_ptr.h \
  /usr/include/c++/11/pstl/glue_memory_defs.h \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/PTL/Utility.hh \
  /usr/include/c++/11/set /usr/include/c++/11/bits/stl_set.h \
- /usr/include/c++/11/bits/stl_multiset.h \
+ /usr/include/c++/11/bits/stl_multiset.h /usr/include/c++/11/cstddef \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AnalysisManager.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4GenericAnalysisManager.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ToolsAnalysisManager.hh \
@@ -335,8 +301,18 @@ CMakeFiles/sim.dir/action.cc.o: \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4UIparameter.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4UItokenNum.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ApplicationState.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4ThreeVector.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Vector/ThreeVector.h \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Utility/defs.h \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/CLHEP/Vector/ThreeVector.icc \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4THnManager.hh \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4Threading.hh \
+ /usr/include/c++/11/condition_variable /usr/include/c++/11/future \
+ /usr/include/c++/11/bits/atomic_futex.h \
+ /usr/include/c++/11/bits/std_thread.h /usr/include/c++/11/thread \
+ /usr/include/c++/11/bits/this_thread_sleep.h \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4THnManager.icc \
+ /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/G4AutoLock.hh \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h1d \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/h1 \
  /home/mahmoud/Documents/geant4/geant4-v11.0.3-install/include/Geant4/tools/histo/b1 \
