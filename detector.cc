@@ -8,6 +8,10 @@ MySensitiveDetector::~MySensitiveDetector()
 
 G4bool MySensitiveDetector::ProcessHits(G4Step *aStep, G4TouchableHistory *ROhist)
 {
+
+// defining the track or the particle hits in the detector 
+// prestep for the initial hit 
+// poststep for the final hit
     G4Track *track = aStep->GetTrack();
 
     track->SetTrackStatus(fStopAndKill);
@@ -34,12 +38,12 @@ G4bool MySensitiveDetector::ProcessHits(G4Step *aStep, G4TouchableHistory *ROhis
 // this print the position of the detector which had been hitted.   
 
     G4int evt = G4RunManager::GetRunManager()->GetCurrentEvent()->GetEventID();
-
+// calling the ntuple 
     G4AnalysisManager *man = G4AnalysisManager::Instance();
     man->FillNtupleIColumn(0, evt);
-    man->FillNtupleDColumn(1, posDetector(0));
-    man->FillNtupleDColumn(2, posDetector(1));
-    man->FillNtupleDColumn(3, posDetector(2));
+    man->FillNtupleDColumn(1, posDetector(0)); // column Id = 0
+    man->FillNtupleDColumn(2, posDetector(1)); // column Id = 0
+    man->FillNtupleDColumn(3, posDetector(2)); // column Id = 0
     man->AddNtupleRow(0);
 
 }
